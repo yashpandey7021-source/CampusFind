@@ -119,12 +119,12 @@ No additional dependencies or package installations are required.
 
 ## 👨‍💻 Developer
 
-**Abhinay Singh**
+**Yash Dhirendra Pandey**
 
 B.Tech – Computer Science and Engineering
 
-- GitHub: [@Abhinay2125S](https://github.com/Abhinay2125S)
-- Project: [CampusFind](https://github.com/Abhinay2125S/CampusFind)
+- GitHub: [@yashpandey7021](https://github.com/yashpandey7021-source)
+- Project: [CampusFind](https://github.com/yashpandey7021-source/CampusFind)
 - Live Website: [CampusFind – Netlify](https://campusfind-yey5.netlify.app/)
 
 ---
